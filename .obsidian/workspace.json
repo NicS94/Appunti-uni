@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "1ed7ef25d4c03ba1",
     "type": "split",
     "children": [
@@ -37,11 +38,32 @@
           }
         ],
         "currentTab": 1
+=======
+    "id": "cdb7463b9d46d977",
+    "type": "split",
+    "children": [
+      {
+        "id": "17a13c78fb7ee146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e45da4245d6548",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "6976bec5fcaf98b3",
     "type": "split",
     "children": [
@@ -51,6 +73,17 @@
         "children": [
           {
             "id": "6537d3b5c91d9fc3",
+=======
+    "id": "675bd4fc32024167",
+    "type": "split",
+    "children": [
+      {
+        "id": "9deb81dc5408607a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b740135b043e7b",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +96,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "a6803aacbfd809ac",
+=======
+            "id": "782c14d146983f98",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +117,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "aa7a345fa3616b4a",
+=======
+            "id": "8fd4617273719b8a",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,6 +137,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "7e9c03c90708789e",
     "type": "split",
     "children": [
@@ -105,11 +147,25 @@
         "children": [
           {
             "id": "1bdf2a68846f67eb",
+=======
+    "id": "57017d4cd3b43e4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "77bddd24edc56872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ffdd75600a5ff4d",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "ALfio/lezione 5.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +175,44 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< Updated upstream
               "title": "Backlinks for lezione 5"
             }
           },
           {
             "id": "7dcd1169acdd4201",
+=======
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1d43235e4631c990",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "ALfio/lezione 5.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< Updated upstream
               "title": "Outgoing links from lezione 5"
             }
           },
           {
             "id": "01a96934d49edd99",
+=======
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "602d11eb99a0684e",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,18 +227,29 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "c2d9a4c1af08f8c0",
+=======
+            "id": "7c70f6d95c6222bd",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "ALfio/lezione 5.md",
+=======
+>>>>>>> Stashed changes
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< Updated upstream
               "title": "Outline of lezione 5"
+=======
+              "title": "Outline"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -184,6 +270,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< Updated upstream
   "active": "45285fab1ee2eff5",
   "lastOpenFiles": [
     "Dati e modelli/Lezione2.md",
@@ -198,5 +285,36 @@
     "Diritto/intro lezione 3.md",
     "Diritto/Lezione 3.md",
     "Diritto/Lezione 2 bis.md"
+=======
+  "active": "e0e45da4245d6548",
+  "lastOpenFiles": [
+    "Pasted image 20251028083507.png",
+    "Pasted image 20251028081718.png",
+    "SO/Teoria/Untitled.md",
+    "SO/Teoria/Lezione 1 (cpu ed interfaccie a basso livello).md",
+    "SO/Lab/Lezione Nov-Dieci (C!!!!).md",
+    "SO/Lab/Lezione 8 (pr mod bash pt.II).md",
+    "SO/Lab/Lezione 7 (PR Mod.bash).md",
+    "SO/Lab/Lezione 6 (Processi e J*b).md",
+    "SO/Lab/Lezione 5 (input output).md",
+    "SO/Lab/Lezione 4 (Bash).md",
+    "SO/Lab/Lezione 3 (i file).md",
+    "SO/Teoria",
+    "SO/Lab",
+    "SO",
+    "Diritto/intro lezione 3.md",
+    "Diritto/Lezione 6.md",
+    "Diritto/Lezione 3.md",
+    "Diritto/Lezione 2.md",
+    "Diritto/Lezione 2 bis.md",
+    "Diritto",
+    "Dati e modelli/Lezione2.md",
+    "Dati e modelli/Lezione.md",
+    "Dati e modelli",
+    "ALfio/lezione 5.md",
+    "ALfio",
+    "README.md",
+    "LICENSE"
+>>>>>>> Stashed changes
   ]
 }

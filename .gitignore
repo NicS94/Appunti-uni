@@ -1,0 +1,25 @@
+# Cartelle interne di Obsidian
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/workspace.json
+.obsidian/workspace*
+.obsidian/snippets/
+
+# File temporanei o di sistema
+.DS_Store
+Thumbs.db
+
+# Backup automatici o sincronizzazioni
+.obsidian/appearance.json
+.obsidian/app.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+
+# Sincronizzazione Obsidian Sync (se usi Sync)
+.obsidian/obsidian-sync*
+.obsidian/remote-graph.json
+.obsidian/remote-config.json
+
+# Log o file temporanei di terze parti
+*.log
+*.tmp
