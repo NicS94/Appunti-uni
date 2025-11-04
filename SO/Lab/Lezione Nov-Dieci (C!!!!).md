@@ -1,9 +1,9 @@
 ### Nuovo capitolo (C)
 
->[!IMPORTANT] scriveremo dei programmi c che serviranno a fare operzioni a livello SO che interfacciano, in sostanza i thread e applicazioni che permettono di comunicare tra di loro.
 
->[!DANGER] 
-Inoltre si faranno le GUI!!!!!
+>[!IMPORTANT]  La scorsa lezione abbiamo fatto solo esercizi bash; <br><br> scriveremo dei programmi c che serviranno a fare operzioni a livello SO, e che interfacceranno altri programmi. <br><br>In sostanza i thread e applicazioni che permettono di comunicare tra di loro.
+
+>[!ERROR] Inoltre si faranno le GUI!!!!!
 
 
 ------------------------------------------------------------------------

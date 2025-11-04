@@ -19,7 +19,7 @@ il compilatore converte il codice in assembly il quale poi con l'assemblatore lo
 
 |                                      | ![[Pasted image 20251028083507.png]] |
 | ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20251028081718.png]] |                                                                                
+| ![[Pasted image 20251028081718.png]] |                                      |
 
 ### Esecuzione delle istruzioni
 Un processore, per eseguire le sue istruzioni, deve prima di tutto avercele salvate in una memoria, che si chiama: memoria istruzioni, questa appunto contiene tutte le istruzioni necessarie per eseguire le istruzioni, queste celle di memoria devono avere delle sequenze di bit nel formato dell'IS della cpu, per operare sulle variabili o comunque per fare delle operazioni in generale, si ha un altra memoria.
