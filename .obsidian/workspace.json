@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARE/La base.md",
-                "mode": "preview",
-                "source": true
+                "file": "ARE/Conversioni tra basi e sistemi di numerazione.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "La base"
+              "title": "Conversioni tra basi e sistemi di numerazione"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ARE/Conversioni tra basi e sistemi di numerazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Conversioni tra basi e sistemi di numerazione"
             }
           },
           {
@@ -191,7 +191,7 @@
     "Untitled.base",
     "README.md",
     "Per.md",
-    "ARE/La base.md",
+    "ARE/Conversioni tra basi e sistemi di numerazione.md",
     "Pasted image 20260204011233.png",
     "Pasted image 20260204010850.png",
     "Pasted image 20260204010206.png",
