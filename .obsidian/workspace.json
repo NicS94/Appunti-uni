@@ -15,8 +15,7 @@
               "state": {
                 "file": "ARE/La base.md",
                 "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "La base"
@@ -186,14 +185,16 @@
   },
   "active": "e0e45da4245d6548",
   "lastOpenFiles": [
-    "ARE/IJVM.md",
-    "ARE/La base.md",
-    "ARE/Info sulla materia.md",
     "ARE/Insulti e robe a caso trovate nelle slide.md",
+    "ARE/IJVM.md",
+    "ARE/Info sulla materia.md",
+    "Untitled.base",
+    "README.md",
+    "Per.md",
+    "ARE/La base.md",
     "Pasted image 20260204011233.png",
     "Pasted image 20260204010850.png",
     "Pasted image 20260204010206.png",
-    "Untitled.base",
     "Pasted image 20260204005523.png",
     "Pasted image 20260204005504.png",
     "ARE/TOOLS/IJVM/ESEMPI/mic1ijvm.mal",
@@ -205,8 +206,6 @@
     "ARE/TOOLS/IJVM/New folder",
     "ARE/TOOLS/IJVM/SIMULATORE/USA QUELLO DI SOTTO SE HAI UNA RISOLUZIONE BASSA",
     "ARE/TOOLS/IJVM/SIMULATORE/Mic1MMV_hr.jar",
-    "README.md",
-    "Per.md",
     "SO/Lab/Lezione 9-10 (C!!!!).md",
     "SO/Lab/Lezione 8 (pr mod bash pt.II).md",
     "SO/Lab/Lezione 11 (PR mod S.O.).md",
