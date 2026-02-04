@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
     "id": "57017d4cd3b43e4c",
@@ -185,6 +185,7 @@
   },
   "active": "e0e45da4245d6548",
   "lastOpenFiles": [
+    "Untitled 1.base",
     "ARE/Insulti e robe a caso trovate nelle slide.md",
     "ARE/IJVM.md",
     "ARE/Info sulla materia.md",
